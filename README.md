@@ -1,4 +1,3 @@
-```markdown
 # My Video Page
 
 Welcome to **My Video Page**, a simple and elegant video streaming webpage. This project is designed to showcase and stream your favorite videos directly from your own website.
