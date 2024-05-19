@@ -58,7 +58,7 @@ my-video-page/
     </div>
     ```
 ## Upload to internet
-USE THE SAME FOLDER WHICH YOU WANT TO DISPLAY ON YOUR TOR NETWORK
+- USE THE SAME FOLDER WHICH YOU WANT TO DISPLAY ON YOUR Webpage
 #Start the server
 ```bash
 python3 -m http.server --bind 127.0.0.1 8080
