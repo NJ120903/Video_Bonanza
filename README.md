@@ -2,6 +2,10 @@
 
 Welcome to **My Video Page**, a simple and elegant video streaming webpage. This project is designed to showcase and stream your favorite videos directly from your own website.
 
+## Important Note
+
+- It is hard to implement mkv or any other video format as most of the browser doesnot support mkv file system so you must use mp4 file format only.
+
 ## Features
 
 - **Responsive Design**: The page is designed to be responsive and accessible on different devices and screen sizes.
